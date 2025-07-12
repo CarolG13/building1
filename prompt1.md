@@ -1,0 +1,10 @@
+- create an example csv file to test the generated code
+  -create a requirement.txt file
+  -E-commerce analytics team needs to process daily sales data.
+  -Use Python with pandas, matplotlib, and sqlalchemy.
+  -Input CSV with columns: date, product_id, quantity, revenue.
+  -Output: top 10 products by revenue.
+  -Create a data pipeline that reads CSV files, cleans data, generates insights, and creates visualisations.
+  -Handle missing values, log all operations, optimise for files up to 1GB.
+  -Use a sorted bar chart with clear labels, grid lines, and annotations to display the top 10 products by revenue.
+  -Ensure the plot is aesthetically pleasing with rotated axis labels, edge coloring, and values shown on top of each bar.
