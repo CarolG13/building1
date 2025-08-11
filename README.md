@@ -4,6 +4,10 @@
 This project processes sales data from a CSV file, analyzes it, and generates a bar chart of the **Top 10 Products** based on sales.  
 The output chart is saved as `top_10_products.png`.
 
+## Top 10 Products Chart
+
+![Top 10 Products](top_10_products.png)
+
 ---
 
 ## 📂 Project Structure(recommended to have)
